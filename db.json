@@ -12,6 +12,12 @@
         "productName": "Пицца Тони Пепперони",
         "ingredientList": "Моцарелла, Пепперони, Соус Domino's",
         "price": 124.99
+    }, {
+    "id": 3,
+        "img": "product3",
+        "productName": "Пицца Гавайская",
+        "ingredientList": "Курица, Ананас, Моцарелла, Соус Domino's",
+        "price": 124.99
     }
   ],
   "profile": {
