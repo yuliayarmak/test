@@ -13,11 +13,17 @@
         "ingredientList": "Моцарелла, Пепперони, Соус Domino's",
         "price": 124.99
     }, {
-    "id": 3,
+        "id": 3,
         "img": "product3",
         "productName": "Пицца Гавайская",
         "ingredientList": "Курица, Ананас, Моцарелла, Соус Domino's",
         "price": 124.99
+    }, {
+       "id": 11,
+        "img": "product11",
+        "productName": "Пицца Спайси",
+        "ingredientList": "Халапеньо, Бекон, Моцарелла, Пепперони, Помидоры, Соус Domino's",
+        "price": 172.99
     }
   ],
   "profile": {
