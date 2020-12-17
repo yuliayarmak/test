@@ -1,8 +1,11 @@
 {
-  "posts": [
+  "products": [
     {
       "id": 1,
-      "title": "hello"
+       "img": "product2",
+       "productName": "Пицца Пепперони Блюз",
+       "ingredientList": "Бергадер Блю, Моцарелла, Пепперони, Соус Альфредо",
+       "price": 124.99
     }
   ],
   "profile": {
