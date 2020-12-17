@@ -20,10 +20,16 @@
         "price": 124.99
     }, {
        "id": 11,
-        "img": "product11",
-        "productName": "Пицца Спайси",
-        "ingredientList": "Халапеньо, Бекон, Моцарелла, Пепперони, Помидоры, Соус Domino's",
-        "price": 172.99
+       "img": "product11",
+       "productName": "Пицца Спайси",
+       "ingredientList": "Халапеньо, Бекон, Моцарелла, Пепперони, Помидоры, Соус Domino's",
+       "price": 172.99
+    }, {
+       "id": 13,
+       "img": "product13",
+       "productName": "Пицца Пять Сыров",
+       "ingredientList": "Фета, Пармезан, Бергадер Блю, Моцарелла, Соус Альфредо, Чеддер",
+       "price": 187.99
     }
   ],
   "profile": {
