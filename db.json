@@ -35,7 +35,7 @@
   "sales": [
     {
     "img": "sale1",
-    "inf0": "info"
+    "info": "info"
     }
   ]
 }
