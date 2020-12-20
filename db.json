@@ -23,7 +23,8 @@
        "img": "product2",
        "productName": "Пицца Пепперони Блюз",
        "ingredientList": "Бергадер Блю, Моцарелла, Пепперони, Соус Альфредо",
-       "price": 124.99
+       "price": 124.99,
+       "category": "classic"
      }, {
        "id": 1,
        "img": "product1",
