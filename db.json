@@ -80,14 +80,14 @@
        "productName": "Пицца Пять Сыров",
        "ingredientList": "Фета, Пармезан, Бергадер Блю, Моцарелла, Соус Альфредо, Чеддер",
        "price": 187.99,
-       "category": "specail"
+       "category": "premium"
      }, {
        "id": 15,
        "img": "product15",
        "productName": "Пицца МитZZа",
        "ingredientList": "Пармезан, Бекон, Ветчина, Колбаски баварские, Моцарелла, Пепперони, Соус Domino's",
        "price": 187.99,
-       "category": "specail"
+       "category": "premium"
      }
   ]
 }
