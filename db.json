@@ -89,5 +89,6 @@
        "price": 187.99,
        "category": "premium"
      }
-  ]
+  ], 
+  "orders": []
 }
